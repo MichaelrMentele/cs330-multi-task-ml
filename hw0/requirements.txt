@@ -11,7 +11,7 @@ python-dateutil
 requests
 scipy
 six
-sklearn
+# sklearn
 tensorboard
-torch==1.12
+# torch==1.12
 tqdm
